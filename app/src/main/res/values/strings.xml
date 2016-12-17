@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ch4n</string>
+    <string name="title_activity_display_post">DisplayPostActivity</string>'
+    <string name="loading">Loading...</string>
+    <string name="default_chan">pol</string>
+    <string name="visit_chan">Visit Chan</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_display_image_fullscreen">DisplayImageFullscreenActivity</string>
+</resources>
